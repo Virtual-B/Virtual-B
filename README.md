@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Virtual-B
-- 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Computer Science (BS) From CU Boulder
-- 💞️ I’m looking to collaborate on AI Research
+- 👀 I’m interested in Computer Science and data stuff
+- 🌱 I’m currently learning Computer Science (BS) and Statistics (Minor) From CU Boulder
+- 💞️ I’m looking to get an internship through the summer and possibly spring, if manageable.
 - 📫 How to reach me benjavier1135@gmail.com or LinkedIn @Ben Javier
 
 <!---
